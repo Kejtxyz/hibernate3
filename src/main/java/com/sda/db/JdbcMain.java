@@ -12,3 +12,4 @@ public class JdbcMain {
         entityManagerFactory.close();
     }
 }
+// Hibernate - xamp - maven - mysql
